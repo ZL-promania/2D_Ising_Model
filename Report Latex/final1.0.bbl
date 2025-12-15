@@ -1,0 +1,58 @@
+\begin{thebibliography}{10}
+
+\bibitem{Onsager1944}
+Lars Onsager.
+\newblock Crystal statistics. i. a two-dimensional model with an order-disorder transition.
+\newblock {\em Physical Review}, 65(3-4):117--149, 1944.
+
+\bibitem{Metropolis1953}
+Nicholas Metropolis, Arianna~W. Rosenbluth, Marshall~N. Rosenbluth, Augusta~H. Teller, and Edward Teller.
+\newblock Equation of state calculations by fast computing machines.
+\newblock {\em The Journal of Chemical Physics}, 21(6):1087--1092, 1953.
+
+\bibitem{Wolff1989}
+Ulli Wolff.
+\newblock Collective monte carlo updating for spin systems.
+\newblock {\em Physical Review Letters}, 62(4):361--364, 1989.
+
+\bibitem{Yang1952}
+Chen-Ning Yang.
+\newblock The spontaneous magnetization of a two-dimensional ising model.
+\newblock {\em Physical Review}, 85:808--816, 1952.
+
+\bibitem{SwendsenWang1987}
+Robert~H. Swendsen and Jian-Sheng Wang.
+\newblock Nonuniversal critical dynamics in monte carlo simulations.
+\newblock {\em Physical Review Letters}, 58(2):86--88, 1987.
+
+\bibitem{Sokal1997}
+Alan~D. Sokal.
+\newblock Monte carlo methods in statistical mechanics: Foundations and new algorithms.
+\newblock {\em NATO ASI Series C}, 361:131--192, 1997.
+
+\bibitem{NewmanBarkema1999}
+M.~E.~J. Newman and G.~T. Barkema.
+\newblock {\em Monte Carlo Methods in Statistical Physics}.
+\newblock Oxford University Press, 1999.
+
+\bibitem{Fisher1972}
+Michael~E. Fisher.
+\newblock Scaling theory for critical points.
+\newblock {\em Physical Review Letters}, 28(16):1022--1025, 1972.
+
+\bibitem{Barber1983}
+M.~N. Barber.
+\newblock Finite-size scaling.
+\newblock {\em Phase Transitions and Critical Phenomena}, 8:145--266, 1983.
+
+\bibitem{FortuinKasteleyn1972}
+C.~M. Fortuin and P.~W. Kasteleyn.
+\newblock On the random-cluster model. i. introduction and relation to other models.
+\newblock {\em Physica}, 57(4):536--564, 1972.
+
+\bibitem{LiSokal1989}
+Xiaoyi Li and Alan~D. Sokal.
+\newblock Rigorous lower bounds on the dynamic critical exponent of the swendsen--wang algorithm.
+\newblock {\em Physical Review Letters}, 63(8):827--830, 1989.
+
+\end{thebibliography}
