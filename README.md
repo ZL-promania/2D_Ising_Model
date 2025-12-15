@@ -14,11 +14,6 @@ We study equilibrium properties, autocorrelation effects, critical slowing down,
 - Wolff cluster update
 
 ---
-# 2D Ising Model
-
-Monte Carlo simulations of the 2D Ising model using Metropolis and Wolff algorithms.
-
----
 
 ## Core Simulation Code
 
