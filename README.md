@@ -19,8 +19,6 @@ We study equilibrium properties, autocorrelation effects, critical slowing down,
 
 ### Metropolis Algorithm
 
-- [`Metropolis.py`](./Metropolis.py)  
-  Core Metropolis Monte Carlo implementation.
 
 - [`Metropolis.ipynb`](./Metropolis.ipynb)  
   Notebook version of Metropolis simulations.
