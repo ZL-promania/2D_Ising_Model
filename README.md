@@ -42,7 +42,7 @@ It correctly reproduces equilibrium thermodynamic observables but suffers from s
 
 The implementation and analysis are split into two parts:
 
-- **`Metropolis.py`**  
+- **`Metropolis.ipynb`**  
   Core implementation of the Metropolis Monte Carlo algorithm, including lattice initialization, single-spin updates, and basic observable measurements.
 
 - **`drawing.ipynb`**  
@@ -92,7 +92,7 @@ Simulations are performed on square lattices with periodic boundary conditions f
 
 ```text
 2D_Ising_Model/
-├── Metropolis.py        # Core Metropolis Monte Carlo implementation
+├── Metropolis.ipynb        # Core Metropolis Monte Carlo implementation
 ├── drawing.ipynb        # Metropolis analysis: autocorrelation, plots, finite-size effects
 ├── wolff ising.py       # Wolff cluster algorithm and annealing
 ├── drawing_wolff.py     # Wolff analysis and visualization
